@@ -1,15 +1,15 @@
 {
-  "main.css": "/gulligull/static/css/main.d826faa4.chunk.css",
-  "main.js": "/gulligull/static/js/main.a823e79a.chunk.js",
-  "main.js.map": "/gulligull/static/js/main.a823e79a.chunk.js.map",
+  "main.css": "/gulligull/static/css/main.d34327aa.chunk.css",
+  "main.js": "/gulligull/static/js/main.a1fe1920.chunk.js",
+  "main.js.map": "/gulligull/static/js/main.a1fe1920.chunk.js.map",
   "static/js/1.75d1167d.chunk.js": "/gulligull/static/js/1.75d1167d.chunk.js",
   "static/js/1.75d1167d.chunk.js.map": "/gulligull/static/js/1.75d1167d.chunk.js.map",
   "runtime~main.js": "/gulligull/static/js/runtime~main.0284cafb.js",
   "runtime~main.js.map": "/gulligull/static/js/runtime~main.0284cafb.js.map",
-  "static/css/main.d826faa4.chunk.css.map": "/gulligull/static/css/main.d826faa4.chunk.css.map",
+  "static/css/main.d34327aa.chunk.css.map": "/gulligull/static/css/main.d34327aa.chunk.css.map",
   "static/media/heart-solid.820a9333.svg": "/gulligull/static/media/heart-solid.820a9333.svg",
   "static/media/sign-out-alt-solid.62aaba37.svg": "/gulligull/static/media/sign-out-alt-solid.62aaba37.svg",
   "index.html": "/gulligull/index.html",
-  "precache-manifest.5d7d012b0a651bc81a040c53550ab5f7.js": "/gulligull/precache-manifest.5d7d012b0a651bc81a040c53550ab5f7.js",
+  "precache-manifest.4fae954a9b511365a4cf3b4faad4dc3b.js": "/gulligull/precache-manifest.4fae954a9b511365a4cf3b4faad4dc3b.js",
   "service-worker.js": "/gulligull/service-worker.js"
 }
