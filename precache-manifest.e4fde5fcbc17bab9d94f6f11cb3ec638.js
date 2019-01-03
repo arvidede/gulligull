@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/gulligull/static/js/runtime~main.0284cafb.js"
   },
   {
-    "revision": "a1fe1920ea21307586d7",
-    "url": "/gulligull/static/js/main.a1fe1920.chunk.js"
+    "revision": "3c5bba7b97c64f6614d1",
+    "url": "/gulligull/static/js/main.3c5bba7b.chunk.js"
   },
   {
     "revision": "75d1167dccf38e65ac9c",
     "url": "/gulligull/static/js/1.75d1167d.chunk.js"
   },
   {
-    "revision": "a1fe1920ea21307586d7",
-    "url": "/gulligull/static/css/main.d34327aa.chunk.css"
+    "revision": "3c5bba7b97c64f6614d1",
+    "url": "/gulligull/static/css/main.c940144a.chunk.css"
   },
   {
-    "revision": "63efb98ae243e7d100c08df041655d72",
+    "revision": "8ac335e28d7ffc1d286ddafa9441d25e",
     "url": "/gulligull/index.html"
   }
 ];
