@@ -1,7 +1,7 @@
 {
   "main.css": "/gulligull/static/css/main.5edfd58e.chunk.css",
-  "main.js": "/gulligull/static/js/main.bffe0eeb.chunk.js",
-  "main.js.map": "/gulligull/static/js/main.bffe0eeb.chunk.js.map",
+  "main.js": "/gulligull/static/js/main.bdffc79b.chunk.js",
+  "main.js.map": "/gulligull/static/js/main.bdffc79b.chunk.js.map",
   "static/js/1.75d1167d.chunk.js": "/gulligull/static/js/1.75d1167d.chunk.js",
   "static/js/1.75d1167d.chunk.js.map": "/gulligull/static/js/1.75d1167d.chunk.js.map",
   "runtime~main.js": "/gulligull/static/js/runtime~main.0284cafb.js",
@@ -10,6 +10,6 @@
   "static/media/heart-solid.820a9333.svg": "/gulligull/static/media/heart-solid.820a9333.svg",
   "static/media/sign-out-alt-solid.62aaba37.svg": "/gulligull/static/media/sign-out-alt-solid.62aaba37.svg",
   "index.html": "/gulligull/index.html",
-  "precache-manifest.8379701dddc865872d5b6a03fc7ac230.js": "/gulligull/precache-manifest.8379701dddc865872d5b6a03fc7ac230.js",
+  "precache-manifest.b421b01b7264c2a088792b12b3433d07.js": "/gulligull/precache-manifest.b421b01b7264c2a088792b12b3433d07.js",
   "service-worker.js": "/gulligull/service-worker.js"
 }
