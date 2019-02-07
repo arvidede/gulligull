@@ -1,15 +1,15 @@
 {
-  "main.css": "/gulligull/static/css/main.21ac7d29.chunk.css",
-  "main.js": "/gulligull/static/js/main.7c556e11.chunk.js",
-  "main.js.map": "/gulligull/static/js/main.7c556e11.chunk.js.map",
-  "static/js/1.c92e2d7b.chunk.js": "/gulligull/static/js/1.c92e2d7b.chunk.js",
-  "static/js/1.c92e2d7b.chunk.js.map": "/gulligull/static/js/1.c92e2d7b.chunk.js.map",
+  "main.css": "/gulligull/static/css/main.1923a68b.chunk.css",
+  "main.js": "/gulligull/static/js/main.095e7e40.chunk.js",
+  "main.js.map": "/gulligull/static/js/main.095e7e40.chunk.js.map",
+  "static/js/1.15b50ad1.chunk.js": "/gulligull/static/js/1.15b50ad1.chunk.js",
+  "static/js/1.15b50ad1.chunk.js.map": "/gulligull/static/js/1.15b50ad1.chunk.js.map",
   "runtime~main.js": "/gulligull/static/js/runtime~main.0284cafb.js",
   "runtime~main.js.map": "/gulligull/static/js/runtime~main.0284cafb.js.map",
-  "static/css/main.21ac7d29.chunk.css.map": "/gulligull/static/css/main.21ac7d29.chunk.css.map",
+  "static/css/main.1923a68b.chunk.css.map": "/gulligull/static/css/main.1923a68b.chunk.css.map",
   "static/media/heart-solid.820a9333.svg": "/gulligull/static/media/heart-solid.820a9333.svg",
   "static/media/sign-out-alt-solid.62aaba37.svg": "/gulligull/static/media/sign-out-alt-solid.62aaba37.svg",
   "index.html": "/gulligull/index.html",
-  "precache-manifest.e7e35f0a4d58a7bd280276f497a9a1d2.js": "/gulligull/precache-manifest.e7e35f0a4d58a7bd280276f497a9a1d2.js",
+  "precache-manifest.2a6fbd337a41c47ad3c226cb3fd69a3e.js": "/gulligull/precache-manifest.2a6fbd337a41c47ad3c226cb3fd69a3e.js",
   "service-worker.js": "/gulligull/service-worker.js"
 }
